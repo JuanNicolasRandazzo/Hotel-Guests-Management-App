@@ -9,8 +9,10 @@ import Foundation
 
 enum Segue {
     
-    static let toInfoViewController = "toInfoViewController"
-
-    static let toInfoViewControllerEditing = "toInfoViewControllerEditing"
+    // Add your Segues here...
+    // eg. static let toSecondViewController = "toSecondViewController"
     
+    static let toListViewController = "toListViewController"
+    static let toInfoViewController = "toInfoViewController"
+    static let toInfoViewControllerEditing = "toInfoViewControllerEditing"
 }
