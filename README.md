@@ -5,3 +5,10 @@
 <p>Each guest and their information will be stored in a database to prevent duplications and errors.</p>
 <p></p>
  
+<H1> What I learned </H1>
+<ul>
+  <li>Implementation of a database in a swift code and also implemented it in an IOS App</li>
+  <li>All the figures and logic behind Swift and IOS</li>
+  <li>Changing my logic to match it with Swift since it is a language that requires a different way of thinking</li>
+  <li>Knowledge on IOS Development apps</li>
+</ul>
